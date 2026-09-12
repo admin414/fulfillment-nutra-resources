@@ -20,20 +20,20 @@ Fulfillment Nutra helps ecommerce brands coordinate eligible private-label produ
 
 ## Your language
 
-The guides above are currently available in English and French. The following links lead to existing language versions of the Fulfillment Nutra website; they do not imply that every guide or product is available in every market.
+The supplier evaluation guide is available in ten languages. The first-order guide is available in English and French. Website links do not imply product availability in every market. Translations are maintained by the publisher; language corrections are welcome.
 
-| Language | Website |
-|---|---|
-| Français | [Compléments alimentaires en marque blanche](https://www.fulfillment-nutra.com/) |
-| English | [Private-label supplements and fulfillment](https://www.fulfillment-nutra.com/en/) |
-| Deutsch | [Nahrungsergänzungsmittel unter eigener Marke](https://www.fulfillment-nutra.com/de/) |
-| Español | [Complementos alimenticios de marca blanca](https://www.fulfillment-nutra.com/es/) |
-| Italiano | [Integratori alimentari a marchio proprio](https://www.fulfillment-nutra.com/it/) |
-| Nederlands | [Voedingssupplementen onder eigen merk](https://www.fulfillment-nutra.com/nl/) |
-| Dansk | [Kosttilskud under eget mærke](https://www.fulfillment-nutra.com/da/) |
-| Norsk | [Kosttilskudd under eget merke](https://www.fulfillment-nutra.com/no/) |
-| Română | [Suplimente alimentare sub marcă proprie](https://www.fulfillment-nutra.com/ro/) |
-| Svenska | [Kosttillskott under eget varumärke](https://www.fulfillment-nutra.com/sv/) |
+| Language | Supplier checklist | Website |
+|---|---|---|
+| Français | [Guide](guides/supplier-evaluation.fr.md) | [Compléments alimentaires en marque blanche](https://www.fulfillment-nutra.com/) |
+| English | [Guide](guides/supplier-evaluation.en.md) | [Private-label supplements and fulfillment](https://www.fulfillment-nutra.com/en/) |
+| Deutsch | [Guide](guides/supplier-evaluation.de.md) | [Nahrungsergänzungsmittel unter eigener Marke](https://www.fulfillment-nutra.com/de/) |
+| Español | [Guide](guides/supplier-evaluation.es.md) | [Complementos alimenticios de marca blanca](https://www.fulfillment-nutra.com/es/) |
+| Italiano | [Guide](guides/supplier-evaluation.it.md) | [Integratori alimentari a marchio proprio](https://www.fulfillment-nutra.com/it/) |
+| Nederlands | [Guide](guides/supplier-evaluation.nl.md) | [Voedingssupplementen onder eigen merk](https://www.fulfillment-nutra.com/nl/) |
+| Dansk | [Guide](guides/supplier-evaluation.da.md) | [Kosttilskud under eget mærke](https://www.fulfillment-nutra.com/da/) |
+| Norsk | [Guide](guides/supplier-evaluation.no.md) | [Kosttilskudd under eget merke](https://www.fulfillment-nutra.com/no/) |
+| Română | [Guide](guides/supplier-evaluation.ro.md) | [Suplimente alimentare sub marcă proprie](https://www.fulfillment-nutra.com/ro/) |
+| Svenska | [Guide](guides/supplier-evaluation.sv.md) | [Kosttillskott under eget varumärke](https://www.fulfillment-nutra.com/sv/) |
 
 ## Corrections and questions
 
